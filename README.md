@@ -1,4 +1,5 @@
 # Themesync
+[![CI](https://github.com/rkondratowicz/themesync/actions/workflows/ci.yml/badge.svg)](https://github.com/rkondratowicz/themesync/actions/workflows/ci.yml)
 
 A command-line tool for synchronizing theme changes across multiple applications simultaneously. Switch from light to dark mode (or any custom theme) across your entire development environment with a single command.
 
